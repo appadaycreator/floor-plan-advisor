@@ -1,0 +1,8 @@
+{
+  "name": "Floor Plan Advisor",
+  "short_name": "floor-plan-a",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#6366f1"
+}
